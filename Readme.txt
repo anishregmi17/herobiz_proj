@@ -1,5 +1,5 @@
 
-Database creation:
+Database creation and CRUD operations:
 
 1. users ✅
 id | name | phone | email | password | status | created_at | updated_at
